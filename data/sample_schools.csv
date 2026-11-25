@@ -1,0 +1,61 @@
+udise_code,name,school_type,district,locality,latitude,longitude,students,teachers,classrooms_total,classrooms_good,functional_toilets,girls_toilet,drinking_water,electricity,computers,internet,attendance_pct,academic_score,is_fictional
+FICT-GA-001,"Govt. Primary School, Santa Cruz",Primary,Tiswadi,Santa Cruz,15.53078,73.88722,121,3,3,2,2,yes,yes,yes,11,yes,87.1,62.6,yes
+FICT-GA-002,"Govt. Upper Primary School, Taleigao",Upper Primary,Tiswadi,Taleigao,15.52277,73.88601,314,7,7,2,4,yes,yes,yes,20,yes,75.1,56.6,yes
+FICT-GA-003,"Govt. Upper Primary School, Bambolim",Upper Primary,Tiswadi,Bambolim,15.52777,73.84779,285,12,9,8,5,yes,yes,yes,34,yes,94.2,74.5,yes
+FICT-GA-004,"Govt. Upper Primary School, Merces",Upper Primary,Tiswadi,Merces,15.48518,73.85721,215,6,6,5,4,yes,no,yes,22,yes,89.8,73.6,yes
+FICT-GA-005,"Govt. High School, Chimbel",Secondary,Tiswadi,Chimbel,15.46418,73.86627,347,8,8,4,4,no,yes,yes,15,no,,60.7,yes
+FICT-GA-006,"Govt. Upper Primary School, Goa Velha",Upper Primary,Tiswadi,Goa Velha,15.49507,73.89731,252,5,6,2,3,yes,no,yes,18,yes,73.1,43.9,yes
+FICT-GA-007,"Govt. Primary School, Ribandar",Primary,Tiswadi,Ribandar,15.50604,73.91527,198,6,6,4,5,yes,yes,yes,14,yes,90.2,68.6,yes
+FICT-GA-008,"Govt. High School, Carambolim",Secondary,Tiswadi,Carambolim,15.54926,73.86317,524,15,13,7,7,yes,no,yes,43,yes,83.6,65.3,yes
+FICT-GA-009,"Govt. Primary School, Old Goa",Primary,Tiswadi,Old Goa,15.48994,73.80878,154,5,3,3,3,yes,no,yes,16,yes,96.0,73.6,yes
+FICT-GA-010,"Govt. Primary School, Neura",Primary,Tiswadi,Neura,15.51522,73.84683,58,2,3,0,1,no,no,no,1,no,68.6,42.5,yes
+FICT-GA-011,"Govt. Upper Primary School, Siridao",Upper Primary,Tiswadi,Siridao,15.53246,73.8759,294,5,6,2,4,yes,yes,yes,8,yes,69.3,50.2,yes
+FICT-GA-012,"Govt. Primary School, Corlim",Primary,Tiswadi,Corlim,15.56063,73.90121,51,2,3,2,1,yes,yes,yes,2,yes,75.8,62.5,yes
+FICT-GA-013,"Govt. High School, Siolim",Secondary,Bardez,Siolim,15.58092,73.85044,548,13,11,2,7,yes,yes,yes,21,yes,65.1,65.0,yes
+FICT-GA-014,"Govt. Primary School, Assagao",Primary,Bardez,Assagao,15.56562,73.86185,166,4,4,2,2,yes,yes,yes,6,no,69.9,52.9,yes
+FICT-GA-015,"Govt. Primary School, Anjuna",Primary,Bardez,Anjuna,15.55349,73.82608,120,3,3,0,1,no,yes,yes,5,no,71.9,51.1,yes
+FICT-GA-016,"Govt. Primary School, Nachinola",Primary,Bardez,Nachinola,15.61647,73.80758,186,4,4,2,2,no,yes,yes,11,yes,80.0,68.8,yes
+FICT-GA-017,"Govt. Higher Secondary School, Parra",Higher Secondary,Bardez,Parra,15.61622,73.798,495,14,13,9,7,yes,yes,yes,29,no,84.1,66.4,yes
+FICT-GA-018,"Govt. Primary School, Pilerne",Primary,Bardez,Pilerne,15.58217,73.79575,110,2,3,1,1,yes,yes,yes,2,no,69.8,,yes
+FICT-GA-019,"Govt. High School, Aldona",Secondary,Bardez,Aldona,15.5059,73.79825,478,15,12,7,7,yes,yes,yes,30,yes,90.4,85.0,yes
+FICT-GA-020,"Govt. High School, Moira",Secondary,Bardez,Moira,15.5633,73.85913,172,3,4,1,2,yes,no,yes,8,no,76.7,62.6,yes
+FICT-GA-021,"Govt. High School, Saligao",Secondary,Bardez,Saligao,15.58948,73.82037,395,12,9,5,5,yes,yes,yes,30,yes,84.4,67.5,yes
+FICT-GA-022,"Govt. High School, Guirim",Secondary,Bardez,Guirim,15.56116,73.82272,173,4,4,2,2,yes,yes,yes,11,no,65.1,62.1,yes
+FICT-GA-023,"Govt. Upper Primary School, Revora",Upper Primary,Bardez,Revora,15.5967,73.82568,97,2,3,1,1,yes,no,yes,6,yes,77.8,68.0,yes
+FICT-GA-024,"Govt. Primary School, Calangute",Primary,Bardez,Calangute,15.50221,73.79913,165,4,3,2,2,no,yes,yes,4,no,76.7,46.7,yes
+FICT-GA-025,"Govt. Primary School, Benaulim",Primary,Salcete,Benaulim,15.27939,73.92842,84,2,3,1,1,no,yes,yes,7,yes,76.8,71.1,yes
+FICT-GA-026,"Govt. High School, Colva",Secondary,Salcete,Colva,15.26394,73.94513,331,11,10,7,4,yes,yes,no,40,no,88.0,83.2,yes
+FICT-GA-027,"Govt. Primary School, Chinchinim",Primary,Salcete,Chinchinim,15.22528,73.984,82,3,3,2,2,yes,yes,yes,5,no,92.0,76.3,yes
+FICT-GA-028,"Govt. Primary School, Loutolim",Primary,Salcete,Loutolim,15.21491,73.96347,53,2,3,2,1,yes,yes,yes,4,yes,82.7,69.1,yes
+FICT-GA-029,"Govt. Primary School, Raia",Primary,Salcete,Raia,15.32757,73.96893,98,3,3,2,1,yes,no,yes,8,no,79.8,71.2,yes
+FICT-GA-030,"Govt. High School, Nuvem",Secondary,Salcete,Nuvem,15.3159,73.96136,157,4,3,1,2,yes,yes,,6,yes,68.6,55.5,yes
+FICT-GA-031,"Govt. Primary School, Verna",Primary,Salcete,Verna,15.28108,73.95588,147,5,5,2,2,yes,yes,yes,8,no,86.1,74.0,yes
+FICT-GA-032,"Govt. Upper Primary School, Curtorim",Upper Primary,Salcete,Curtorim,15.28109,73.96975,127,4,4,3,2,yes,yes,yes,15,yes,94.8,85.0,yes
+FICT-GA-033,"Govt. Primary School, Varca",Primary,Salcete,Varca,15.31317,73.92111,73,3,3,2,1,yes,no,yes,5,yes,96.0,83.4,yes
+FICT-GA-034,"Govt. Primary School, Cavelossim",Primary,Salcete,Cavelossim,15.28245,73.92233,76,3,3,2,2,yes,yes,yes,9,yes,85.7,69.6,yes
+FICT-GA-035,"Govt. Primary School, Orlim",Primary,Salcete,Orlim,15.23972,73.95692,65,2,3,2,1,no,no,yes,3,yes,75.1,62.4,yes
+FICT-GA-036,"Govt. High School, Utorda",Secondary,Salcete,Utorda,15.27616,73.95875,530,14,12,7,9,yes,yes,no,31,no,83.8,67.8,yes
+FICT-GA-037,"Govt. Primary School, Curti",Primary,Ponda,Curti,15.45177,74.0828,198,6,5,3,3,yes,yes,yes,13,yes,83.5,64.4,yes
+FICT-GA-038,"Govt. High School, Bandora",Secondary,Ponda,Bandora,15.38821,74.04169,329,9,8,4,4,yes,yes,yes,16,yes,79.4,73.4,yes
+FICT-GA-039,"Govt. Primary School, Shiroda",Primary,Ponda,Shiroda,15.38118,74.03899,176,4,4,1,2,yes,yes,yes,,yes,61.4,60.9,yes
+FICT-GA-040,"Govt. High School, Priol",Secondary,Ponda,Priol,15.34425,73.98805,367,7,7,0,4,no,no,yes,12,yes,65.9,47.1,yes
+FICT-GA-041,"Govt. Higher Secondary School, Betora",Higher Secondary,Ponda,Betora,15.43955,74.04149,215,4,4,2,2,no,yes,yes,6,yes,75.7,45.9,yes
+FICT-GA-042,"Govt. Upper Primary School, Farmagudi",Upper Primary,Ponda,Farmagudi,15.39655,74.01146,203,5,4,1,2,yes,yes,yes,11,no,73.2,46.2,yes
+FICT-GA-043,"Govt. High School, Usgao",Secondary,Ponda,Usgao,15.40387,74.02005,174,3,3,0,2,yes,yes,yes,8,no,67.8,54.7,yes
+FICT-GA-044,"Govt. Primary School, Kundaim",Primary,Ponda,Kundaim,15.37199,74.04215,100,2,3,0,1,no,no,yes,1,no,65.4,37.0,yes
+FICT-GA-045,"Govt. High School, Marcaim",Secondary,Ponda,Marcaim,15.43104,74.00288,222,7,6,5,3,yes,yes,yes,21,no,90.7,71.9,yes
+FICT-GA-046,"Govt. Upper Primary School, Veling",Upper Primary,Ponda,Veling,15.41997,74.04164,156,3,3,0,2,no,yes,yes,0,no,61.8,45.0,yes
+FICT-GA-047,"Govt. Primary School, Queula",Primary,Ponda,Queula,15.39596,73.99074,117,3,3,1,1,yes,yes,yes,,,75.5,53.3,yes
+FICT-GA-048,"Govt. High School, Durbhat",Secondary,Ponda,Durbhat,15.38619,73.94548,439,7,8,2,5,yes,yes,yes,19,no,73.9,49.6,yes
+FICT-GA-049,"Govt. Primary School, Mayem",Primary,Bicholim,Mayem,15.56338,73.93037,155,3,3,0,1,no,yes,no,2,no,75.5,49.3,yes
+FICT-GA-050,"Govt. Primary School, Mulgao",Primary,Bicholim,Mulgao,15.56437,73.98206,179,3,3,1,2,yes,no,yes,5,no,60.0,37.0,yes
+FICT-GA-051,"Govt. High School, Naroa",Secondary,Bicholim,Naroa,15.58915,73.96276,200,4,3,0,2,yes,yes,yes,0,no,76.3,44.0,yes
+FICT-GA-052,"Govt. Higher Secondary School, Lamgao",Higher Secondary,Bicholim,Lamgao,15.57279,73.92968,553,,11,4,7,yes,yes,yes,27,no,,,yes
+FICT-GA-053,"Govt. High School, Pale",Secondary,Bicholim,Pale,15.55749,73.91961,214,5,5,3,3,yes,yes,yes,14,yes,83.1,54.2,yes
+FICT-GA-054,"Govt. High School, Advalpal",Secondary,Bicholim,Advalpal,15.65249,73.96251,323,6,7,4,4,yes,yes,yes,13,yes,74.0,63.3,yes
+FICT-GA-055,"Govt. Primary School, Harvalem",Primary,Bicholim,Harvalem,15.62073,73.90194,89,2,3,0,1,no,no,yes,1,no,67.7,43.2,yes
+FICT-GA-056,"Govt. Primary School, Kudnem",Primary,Bicholim,Kudnem,15.52009,73.89112,122,2,3,0,1,yes,yes,yes,1,no,66.3,53.9,yes
+FICT-GA-057,"Govt. Primary School, Latambarcem",Primary,Bicholim,Latambarcem,15.6194,73.95829,67,2,3,1,1,no,yes,yes,3,no,60.4,38.4,yes
+FICT-GA-058,"Govt. High School, Carapur",Secondary,Bicholim,Carapur,15.61554,73.89445,467,11,10,1,5,no,yes,yes,16,yes,75.5,50.2,yes
+FICT-GA-059,"Govt. Upper Primary School, Surla",Upper Primary,Bicholim,Surla,15.60123,73.95835,257,6,6,2,3,no,yes,yes,5,no,78.1,54.7,yes
+FICT-GA-060,"Govt. Primary School, Sirgao",Primary,Bicholim,Sirgao,15.62962,73.86795,177,4,4,2,2,no,no,yes,12,yes,72.7,54.9,yes
