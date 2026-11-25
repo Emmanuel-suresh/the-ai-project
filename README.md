@@ -72,3 +72,4 @@ so the dashboard and the AI assistant can only quote real, stored figures.
   `district` to match the project specification.
 - `donations.is_simulated` has a database CHECK constraint: a non-simulated donation cannot be saved.
 # the-ai-project
+# the-ai-project
